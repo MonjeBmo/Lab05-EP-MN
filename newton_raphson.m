@@ -1,5 +1,5 @@
 clc;
-fprintf("\n\nMETODO DE PUNTO FIJO\n\n");
+fprintf("\n\nMETODO DE NEWTON-RAPHSON\n\n");
 
 x0 = input("Escribir el valor inicial -> ");
 
